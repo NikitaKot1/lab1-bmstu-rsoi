@@ -1,5 +1,5 @@
 from flask import Flask, request, make_response
-from src.personInterface import Person
+from src.persone import Person
 
 app = Flask(__name__)
 
