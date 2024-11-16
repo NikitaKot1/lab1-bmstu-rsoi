@@ -276,6 +276,11 @@
 	],
 	"variable": [
 		{
+			"key": "baseUrl",
+			"value": "https://lab1-bmstu-rsoi.onrender.com",
+			"enabled": true
+		},
+		{
 			"key": "name",
 			"value": ""
 		},
